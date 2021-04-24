@@ -1,0 +1,102 @@
+/* Colors and fonts */
+body {
+	background: #f6f6f6;
+	color: #435465;
+	font-family: 'Lora', serif;
+	font-size: 17px;
+	font-weight: lighter;
+}
+
+
+h1, h2, h3 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+}
+
+
+h1 {
+	color: #0a2540;
+	font-size: 32px;
+	width: 300px;
+	margin: 0px auto;
+}
+
+h2 {
+	color: #0a2540;
+	font-size: 24px;
+}
+
+h3 {
+	color: #635bff;
+	font-size: 19px;
+}
+
+a {
+	text-decoration: none;
+	color: #635bff;
+	font-family: 'Roboto Slab', serif;
+}
+a:hover {
+	color: #0a2540;
+}
+
+#profile {
+	width: 300px;
+	box-shadow: 0px 10px 10px;
+	width: 300px;
+	margin: 0px auto;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+/* custom desing */
+
+
+.card-white {
+	background-color: white
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.btn-purple {
+	background-color: #635bff;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+/*Design adjustements using id (1% design remaining) */
+
+#introduction p {
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+#introduction h1 {
+	margin-bottom: 20px;
+}
+
+div {
+	padding: 60px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	text-align: center;
+}
+
+
+
+@media (max-width: 500px) 
+
+
+
+
+
+
+
